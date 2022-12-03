@@ -1,0 +1,29 @@
+{
+  "name": "adaptations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/datastore": "^7.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^7.7.7",
+    "fetch": "^1.1.0",
+    "get-random-values": "^2.0.0",
+    "google-auth-library": "^8.7.0",
+    "json-2-html": "^0.0.0",
+    "json-to-html": "^0.1.2",
+    "json2html": "^0.0.8",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
