@@ -1,4 +1,4 @@
 {
-    "GCLOUD_PROJECT": "adaptations-api",
+    "GCLOUD_PROJECT": "headcasts-api",
     "DATA_BACKEND": "datastore"
 }
